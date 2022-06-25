@@ -11,7 +11,7 @@ I create fascinating games in Unity!
 &emsp;&emsp;1. Create 5 games in Unity (completed!)  
 &emsp;&emsp;2. Find a job in the video game industry (completed!)  
 &emsp;&emsp;3. Publish 5 open source games on itch.io (in work)
-&emsp;&emsp;4. Publish the game on Steam
+&emsp;&emsp;4. Publish one game on Steam
 
 ### Contacts
 Telegram – [@Posergyr](https://t.me/Posergyr) &nbsp;&nbsp; *← best option*  
