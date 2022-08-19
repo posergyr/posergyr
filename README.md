@@ -4,13 +4,14 @@ I create fascinating games in Unity!
 
 ### Information
 
-⚙️ **Game engines:** Unity3D, Game Maker Studio 2
-📃 **Languages:** C# (actively studying), GML, C++ (poorly)  
-📦 **Tools:** JetBrains Rider, GitKraken / SmartGit  
+⚙️ **Game engines:** Unity3D, Game Maker Studio 2, Godot Engine
+📃 **Languages:** C# (actively studying), GML, C++ (poorly), GDScript (poorly)
+📦 **Tools:** JetBrains Rider / Visual Studio, GitKraken / SmartGit
 🗻 **Goals:**  
 &emsp;&emsp;1. Create 5 games in Unity (completed!)  
-&emsp;&emsp;2. Find a job in the video game industry (completed!)  
-&emsp;&emsp;3. Publish one game on Steam
+&emsp;&emsp;2. Find a job in the video game industry (completed!) 
+&emsp;&emsp;3. Publish three games on Itch.io
+&emsp;&emsp;4. Publish first game on Steam
 
 ### Contacts
 Telegram – [@Posergyr](https://t.me/Posergyr) &nbsp;&nbsp; *← best option*  
