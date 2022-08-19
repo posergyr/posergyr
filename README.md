@@ -4,9 +4,9 @@ I create fascinating games in Unity!
 
 ### Information
 
-⚙️ **Game engines:** Unity3D, Game Maker Studio 2, Godot Engine
-📃 **Languages:** C# (actively studying), GML, C++ (poorly), GDScript (poorly)
-📦 **Tools:** JetBrains Rider / Visual Studio, GitKraken / SmartGit
+⚙️ **Game engines:** Unity3D, Game Maker Studio 2, Godot Engine  
+📃 **Languages:** C# (actively studying), GML, C++ (poorly), GDScript (poorly)  
+📦 **Tools:** JetBrains Rider / Visual Studio, GitKraken / SmartGit  
 🗻 **Goals:**  
 &emsp;&emsp;1. Create 5 games in Unity (completed!)  
 &emsp;&emsp;2. Find a job in the video game industry (completed!) 
