@@ -9,8 +9,8 @@ I create fascinating games in Unity!
 📦 **Tools:** JetBrains Rider / Visual Studio, GitKraken / SmartGit  
 🗻 **Goals:**  
 &emsp;&emsp;1. Create 5 games in Unity (completed!)  
-&emsp;&emsp;2. Find a job in the video game industry (completed!) 
-&emsp;&emsp;3. Publish three games on Itch.io
+&emsp;&emsp;2. Find a job in the video game industry (completed!)  
+&emsp;&emsp;3. Publish three games on Itch.io  
 &emsp;&emsp;4. Publish first game on Steam
 
 ### Contacts
