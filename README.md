@@ -14,7 +14,7 @@ I create fascinating games in Unity!
 &emsp;&emsp;4. Publish first game on Steam
 
 ### Contacts
-Telegram – [@Posergyr](https://t.me/Posergyr) &nbsp;&nbsp; *← best option*  
+Telegram – [@posergyr_tg](https://t.me/posergyr_tg) &nbsp;&nbsp; *← best option*  
 E-mail – posergyr@gmail.com
 
 <!---
