@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Sergey aka @posergyr
-**I'm a 22 yrs Junior Technical Game Designer from Moscow.**  
+**I'm a 23 yrs Junior Technical Game Designer from Moscow.**  
 I create fascinating games in Unity!
 
 ### Information
