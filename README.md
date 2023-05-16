@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Sergey aka @posergyr
-**I'm a 23 yrs Junior Technical Game Designer from Moscow.**  
+**I'm a 23 yrs Junior Game Designer from Moscow.**  
 I create fascinating games in Unity!
 
 ### Information
@@ -10,8 +10,7 @@ I create fascinating games in Unity!
 🗻 **Goals:**  
 &emsp;&emsp;1. Create 5 games in Unity (completed!)  
 &emsp;&emsp;2. Find a job in the video game industry (completed!)  
-&emsp;&emsp;3. Publish three games on Itch.io  
-&emsp;&emsp;4. Publish first game on Steam
+&emsp;&emsp;3. Publish first game on Steam (not done yet)
 
 ### Contacts
 Telegram – [@posergyr](https://t.me/posergyr) &nbsp;&nbsp; *← best option*  
